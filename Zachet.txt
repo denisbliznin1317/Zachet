@@ -1,0 +1,9 @@
+git init
+git add README.md
+git commit -m "README.md"
+git config --global user.email"denis.bliznin@gmail.com"
+git config --global user.name"Zachet"
+git commit "README.md"
+git remote add origin https://github.com/denisbliznin1317/Zachet.git
+git push -u origin master
+git branch beta
